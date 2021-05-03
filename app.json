@@ -1,0 +1,12 @@
+{
+  "name": "easy-expo",
+  "displayName": "easy-expo",
+  "expo": {
+    "name": "easy-expo",
+    "slug": "easy-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
