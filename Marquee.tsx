@@ -26,7 +26,7 @@ export default function Marquee(props, context) {
         style={{
           fontFamily: "Nunito_400Regular",
           fontSize: 30,
-          color: "black",
+          color: props.textColor || "black",
         }}
       >
         {props.children}

@@ -1,4 +1,6 @@
 {
+  "version": "0.0.1",
+  "name": "easy-expo",
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
@@ -37,6 +39,5 @@
   },
   "jest": {
     "preset": "react-native"
-  },
-  "private": true
+  }
 }
